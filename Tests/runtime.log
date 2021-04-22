@@ -1,0 +1,141 @@
+2021-04-14 00:07:31 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:07:31 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:08:23 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:08:23 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:10:59 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:10:59 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:10:59 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:10:59 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:11:25 DEBUG StepFinishedEvent:38 - Firing embed event for scenario: Open website
+2021-04-14 00:17:20 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:17:20 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:17:20 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:17:20 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:17:46 DEBUG StepFinishedEvent:38 - Firing embed event for scenario: Open website
+2021-04-14 00:21:26 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:21:26 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:21:26 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:21:26 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:21:52 DEBUG StepFinishedEvent:38 - Firing embed event for scenario: Open website
+2021-04-14 00:23:28 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:23:28 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:23:29 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:23:29 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:25:54 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:25:54 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:25:55 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:25:55 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:25:55 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:25:55 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:25:55 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:25:55 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:26:23 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:26:23 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:26:23 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:26:23 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:28:00 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:28:00 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:28:01 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:28:01 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:30:45 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:30:45 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:30:46 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:30:46 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:34:18 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:34:18 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:34:18 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:34:18 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:35:58 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:35:58 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:35:58 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:35:58 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:38:35 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:38:35 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:38:35 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:38:35 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:41:09 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:41:09 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:41:10 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:41:10 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:43:35 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:43:35 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:43:36 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:43:36 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:43:41 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:43:41 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:43:44 DEBUG StepFinishedEvent:38 - Firing embed event for scenario: Search Google
+2021-04-14 00:43:47 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:43:47 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:43:47 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:43:47 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:43:50 DEBUG StepFinishedEvent:38 - Firing embed event for scenario: Search Google
+2021-04-14 00:43:50 DEBUG StepFinishedEvent:38 - Firing embed event for scenario: Search Google
+2021-04-14 00:43:54 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:43:54 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:43:54 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:43:54 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:43:54 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:43:54 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:43:57 DEBUG StepFinishedEvent:38 - Firing embed event for scenario: Search Google
+2021-04-14 00:43:58 DEBUG StepFinishedEvent:38 - Firing embed event for scenario: Search Google
+2021-04-14 00:43:58 DEBUG StepFinishedEvent:38 - Firing embed event for scenario: Search Google
+2021-04-14 00:44:02 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:44:02 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:44:02 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:44:02 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:44:02 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:44:02 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:44:02 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:44:02 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:44:09 DEBUG StepFinishedEvent:38 - Firing embed event for scenario: Search Google
+2021-04-14 00:44:09 DEBUG StepFinishedEvent:38 - Firing embed event for scenario: Search Google
+2021-04-14 00:44:10 DEBUG StepFinishedEvent:38 - Firing embed event for scenario: Search Google
+2021-04-14 00:44:10 DEBUG StepFinishedEvent:38 - Firing embed event for scenario: Search Google
+2021-04-14 00:46:32 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:46:32 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:46:33 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:46:33 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:46:38 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:38 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:45 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:45 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:45 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:45 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:51 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:51 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:51 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:51 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:51 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:51 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:57 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:57 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:57 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:57 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:57 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:57 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:57 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:46:57 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:24 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:49:24 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:49:25 DEBUG GuiceModuleAggregator$Builder:69 - Modules [[[io.magentys.cinnamon.guice.WebDriverModule]]]
+2021-04-14 00:49:25 DEBUG GuiceModuleAggregator$Builder:70 - Overrides modules []
+2021-04-14 00:49:29 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:29 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:35 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:35 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:35 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:35 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:42 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:42 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:42 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:42 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:42 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:42 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:47 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:47 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:47 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:47 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:47 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:47 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:47 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
+2021-04-14 00:49:47 DEBUG EventHandlingWebDriverContainer:66 - Updating window count to 1
